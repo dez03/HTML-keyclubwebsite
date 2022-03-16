@@ -1,5 +1,4 @@
-
-.navContainer {
+/* .navContainer {
   text-align: center;
   height: 53px;
   background-color: rgba(255, 255, 255, 0.8);
@@ -13,19 +12,10 @@
   padding: 12px 15px 0px 15px;
   display: flex;
 }
-
-
-.home-icon{
-  height: 35px;
-}
 .hamburgerMenu{
   margin-left: auto;
   float: right;
 }
-
-
-
-
 .menuLine1{
   background-color: black;
   height: 6px;
@@ -45,4 +35,4 @@
   width: 33px;
   border-radius: 8px;
   margin-top: 5px;
-}
+} */

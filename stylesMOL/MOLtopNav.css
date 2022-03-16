@@ -1,0 +1,31 @@
+.topNav{
+  background-color: #3F0B0A;
+  height: 64px;
+}
+.container{
+  display: flex;
+  align-items:center;
+}
+.UHSSEAL {
+  height: 55px;
+  margin-top: 4px;
+  margin-left: -5px;
+  margin-right: 5px;
+}
+.titleText{
+  font-size: 16px;
+  color: #EFD071;
+  margin-top: 15px;
+  font-weight: 700;
+}
+.subtitle{
+  font-size: 13px;
+  color: #fff;
+  font-weight: 700;
+  margin-top: -8px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+/* Maroon Nav code ^^  */

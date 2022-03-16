@@ -8,35 +8,10 @@
 body{
   background-color: #F8F0E3;
 }
-nav{
-  background-color: #3F0B0A;
-  height: 64px;
-}
 .everything{
   max-width: 2500px;
 }
-.container{
-  display: flex;
-  align-items:center;
-}
-.UHSSEAL {
-  height: 55px;
-  margin-top: 4px;
-}
-.titleText{
-  font-size: 16px;
-  color: #EFD071;
-  margin-top: 4px;
-}
-.subtitle{
-  font-size: 13px;
-  color: #fff;
-}
-a{
-  text-decoration: none;
-  color: black;
-}
-/* Maroon Nav code ^^  */
+
 
 
 
@@ -129,13 +104,13 @@ h3{
 }
 .fact{
   font-size: 38px;
+  font-weight: 700;
 }
 
 .posts-container{
   margin-top: 1em;
   padding: 1em;
   display: flex;
-
   flex-direction: column;
   align-items: center;
   background-image: url(/images/posts.jpg);
@@ -146,6 +121,7 @@ h3{
 }
 .recentposts{
   font-size: 32px;
+  font-weight: 700;
 }
 .articletitle{
   font-size: 22px;
