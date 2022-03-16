@@ -1,0 +1,69 @@
+footer{
+  background-color: #C4C4C4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2em;
+}
+
+.footer-title{
+  font-size: 24px;
+  margin-bottom: .3em;
+  
+}
+.footer-child{
+  font-size: 16px;
+  margin-bottom: .2em;
+}
+.last-child{
+  margin-bottom: 1em;
+}
+.footer-subtitle{
+  font-size: 20px;
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.social-container{
+  display: flex;
+}
+.last-icon{
+  margin-bottom: 1em;
+}
+
+.remind{
+  height: 37px;
+  width: 37px;
+}
+.instagramicon{
+  margin-right: 1em;
+}
+.other-website{
+  margin-top: 1em;
+}
+
+.bottom-footer-container{
+  background-color: black;
+  width: 100%;
+  text-align: center;
+}
+.bottom-footer{
+  display: flex;
+  margin-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.unionlogo{
+  height: 46px;
+}
+.KClogo{
+  height: 46px;
+  margin-left: auto;
+  
+}
+.bottom-footer-text{
+  color: white;
+  font-size: 12px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

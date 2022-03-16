@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Roboto:wght@400;700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-color: #F8F0E3;
+}
+nav{
+  background-color: #3F0B0A;
+  height: 64px;
+}
+.everything{
+  max-width: 2500px;
+}
+.container{
+  display: flex;
+  align-items:center;
+}
+.UHSSEAL {
+  height: 55px;
+  margin-top: 4px;
+}
+.titleText{
+  font-size: 16px;
+  color: #EFD071;
+  margin-top: 4px;
+}
+.subtitle{
+  font-size: 13px;
+  color: #fff;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+/* Maroon Nav code ^^  */
+
+
+
+.UHS-image-background{
+  background-image: url("/images/KCstudents.jpg");
+  height: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.welcome{
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+
+.buttons3-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Btn3{
+  height: 110px;
+  width: 212px;
+  border-radius: 16px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 4.8px 9.6px 9.6px hsl(0deg 0% 0% / 0.35);
+  margin-bottom: 1.3em;
+
+  font-size: 18px;
+
+  display: flex;
+  flex-direction: column;
+}
+h3{
+  font-weight: 400;
+}
+.hoursBtn{
+  margin-top: -1.5em;
+  
+
+}
+.icon{
+  font-size: 45px;
+  margin-bottom: .2em;
+}
+
+.mission-container{
+  margin-top: 1em;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(/images/ourmissionbg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: white;
+}
+.missiontitle{
+  font-size: 38px;
+  font-weight: 700;
+  width: 212px;
+  margin-bottom: .5em;
+}
+.missioninfo{
+  font-size: 18px;
+  font-weight: 400;
+  width: 212px;
+}
+.fact-container{
+  margin-top: 1em;
+  padding: 1em;
+  display: flex;
+  height: 200px;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(/images/fact.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: black;
+}
+.fact{
+  font-size: 38px;
+}
+
+.posts-container{
+  margin-top: 1em;
+  padding: 1em;
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  background-image: url(/images/posts.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: black;
+}
+.recentposts{
+  font-size: 32px;
+}
+.articletitle{
+  font-size: 22px;
+  margin-top: 1em;
+}
+.articleimg{
+  width: 170px;
+  height: auto;
+}
+
+
