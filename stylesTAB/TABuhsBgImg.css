@@ -1,0 +1,17 @@
+@media(min-width:768px) {
+  .UHS-image-background{
+    background-image: url("/images/KCstudents.jpg");
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .welcome{
+    color: #fff;
+    font-size: 36px;
+    font-weight: 700;
+  }
+} 

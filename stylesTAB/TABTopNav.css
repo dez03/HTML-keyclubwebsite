@@ -1,0 +1,33 @@
+@media(min-width:768px) {
+  .topNav{
+    background-color: #3F0B0A;
+    height: 120px;
+  }
+  .container{
+    display: flex;
+    align-items:center;
+  }
+  .UHSSEAL {
+    height: 110px;
+    margin-top: 4px;
+    margin-left: -20px;
+    margin-right: 20px;
+  }
+  .titleText{
+    font-size: 36px;
+    color: #EFD071;
+    margin-top: 15px;
+    font-weight: 700;
+  }
+  .subtitle{
+    font-size: 24px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: -5px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+/* Maroon Nav code ^^  */  
+} 
