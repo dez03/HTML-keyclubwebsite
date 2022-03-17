@@ -10,10 +10,12 @@ footer{
   font-size: 16px;
   margin-bottom: .3em;
   font-weight: bold;
+  text-align: center;
 }
 .footer-child{
   font-size: 12px;
   margin-bottom: .2em;
+  text-align: center;
 }
 .last-child{
   margin-bottom: 1em;
@@ -27,16 +29,24 @@ footer{
 
 .social-container{
   display: flex;
+  align-items: center;
+  text-align: center;
 }
 .last-icon{
   margin-bottom: 1em;
 }
-
+.email-icon{
+  margin-top: .5em;
+}
 .remind{
   height: 37px;
   width: 37px;
 }
 .instagramicon{
+  margin-right: 1em;
+  margin-top: .5em;
+}
+.instagramicon-ours{
   margin-right: 1em;
 }
 .other-website{
@@ -58,7 +68,7 @@ footer{
   height: 46px;
 }
 .KClogo{
-  height: 46px;
+  height: 54px;
   margin-left: auto;
   
 }

@@ -118,10 +118,14 @@ h3{
 .articletitle{
   font-size: 22px;
   margin-top: 1em;
+  text-align: center;
 }
 .articleimg{
   width: 170px;
   height: auto;
 }
 
+.newsletter-Btn{
+  margin-top: 1em;
+}
 

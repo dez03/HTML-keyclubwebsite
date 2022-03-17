@@ -1,0 +1,90 @@
+@media(min-width:768px) {
+  .info-boxes-container-first-2{
+    display: flex;
+    flex-direction: row;
+  }
+  .mission-container{
+    margin-top: 1em;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(/images/ourmissionbg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+    width: 50%;
+    height: 350px;
+  }
+  .missiontitle{
+    font-size: 38px;
+    font-weight: 700;
+    width: 212px;
+    margin-bottom: .5em;
+  }
+  .missioninfo{
+    font-size: 18px;
+    font-weight: 400;
+    width: 300px;
+  }
+  .fact-container{
+    margin-top: 1em;
+    padding: 1em;
+    display: flex;
+    height: 350px;
+    width: 50%;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(/images/fact.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: black;
+    justify-content: center;
+  }
+  .fact{
+    font-size: 38px;
+    font-weight: 700;
+  }
+  .posts-container{
+    margin-top: 1em;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(/images/posts.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: black;
+  }
+  .recentposts{
+    font-size: 32px;
+    font-weight: 700;
+  }
+  .article-container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2em;
+  }
+  .article1-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-right: 5em;
+  }
+  .article2-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .articletitle{
+    font-size: 22px;
+    margin-top: 1em;
+  }
+  .articleimg{
+    width: 170px;
+    height: auto;
+  }
+}
