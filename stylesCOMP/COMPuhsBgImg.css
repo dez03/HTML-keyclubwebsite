@@ -1,0 +1,8 @@
+@media(min-width:1024px) {
+  .welcome{
+    font-size: 56px;
+  }
+  /* .threeBoxesContainer{
+    margin-left: 1em;
+  } */
+}

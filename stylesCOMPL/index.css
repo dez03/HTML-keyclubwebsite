@@ -1,0 +1,10 @@
+@media(min-width:1440px) {
+  .everything{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .everythingchild{
+    max-width: max-content;
+  }
+}
