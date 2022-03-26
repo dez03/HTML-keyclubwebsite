@@ -15,3 +15,16 @@
     font-weight: 700;
   }
 } 
+
+@media(min-width:1024px) {
+   .UHS-image-background{
+    background-image: url("/images/KCstudents.jpg");
+    height: 430px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

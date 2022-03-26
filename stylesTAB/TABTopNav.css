@@ -1,33 +1,31 @@
 @media(min-width:768px) {
   .topNav{
-    background-color: #3F0B0A;
-    height: 120px;
+    height: 130px;
   }
-  .container{
+  .topNavContainer{
     display: flex;
-    align-items:center;
+    justify-content: left;
+    align-items: center;
+    height: 130px;
+    width: 100%;
   }
+
   .UHSSEAL {
     height: 110px;
-    margin-top: 4px;
-    margin-left: -20px;
-    margin-right: 20px;
   }
   .titleText{
     font-size: 36px;
-    color: #EFD071;
-    margin-top: 15px;
-    font-weight: 700;
   }
   .subtitle{
     font-size: 24px;
-    color: #fff;
-    font-weight: 700;
-    margin-top: -5px;
-  }
-  a{
-    text-decoration: none;
-    color: black;
   }
 /* Maroon Nav code ^^  */  
 } 
+
+@media(min-width:992px) {
+  .navbar-brand{
+    display: none;
+  }
+}
+
+
